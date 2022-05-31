@@ -75,6 +75,7 @@ button {
   padding: 1rem;
   text-align: center;
   border-radius: 2rem;
+  margin-block: -1rem;
   margin-right: 5rem;
   width: 8rem;
   height: 3rem;
